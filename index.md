@@ -1,10 +1,10 @@
 # to do
 ## week 1
 ### materials
-- [ ] order bags
 - [ ] ~~order colors~~
-- [ ] buy paper
 - [ ] ~~order tshirts~~
+- [x] order bags
+- [ ] buy paper
 - [ ] find material to cut stencils from (find vinyl film)
 ### content
 - [ ] print 12 works different formats -> shoot them
@@ -39,3 +39,7 @@
 - [ ] find a cover for floor
 - [ ] print buddy t-shirts
 - [ ] prepare advertisement siebs
+
+# expences
+- participation 40€
+- bags 171€
