@@ -16,7 +16,7 @@
 - [x] order fixation for siebs
 - [ ] find transparent folie to use it as a contour
 - [x] check if the desk i have suites to small sieb
-- [ ] buy two desks (siebs: 51x46cm 55t; 56x43cm 43t)
+- [x] buy two desks (siebs: 51x46cm 55t; 56x43cm 43t)
 #### communication
 - [x] check how Gerber setups looks like
 - [x] agree on place with Naddi
@@ -48,4 +48,4 @@
 # expences
 - participation: 	40	€
 - bags: 			171	€
-- desks:			
+- desks:			4 €
