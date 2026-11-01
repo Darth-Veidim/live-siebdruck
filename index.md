@@ -8,8 +8,8 @@
 - [ ] find material to cut stencils from (find vinyl film: Orafolie)
 ### content
 - [ ] print 12 works different formats -> shoot them
-- [ ] print 3 shirts -> shoot them
-- [ ] prepare selling website (or simple one)
+- [ ] ~~print 3 shirts -> shoot them~~
+- [ ] prepare ~~selling~~ simple presentation website
 - [ ] fill website with works
 - [ ] fill inst with works
 ### setup
@@ -31,7 +31,7 @@
 - [ ] print sample bags and postcards
 - [ ] find a wall for products presentation
 ### setup
-- [ ] assemble tables
+- [x] assemble tables
 - [ ] bring hair drier (should we buy industrial dryer?)
 - [ ] check how to store siebs at the place
 - [ ] check which and how many rackels are needed
