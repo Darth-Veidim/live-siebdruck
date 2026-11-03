@@ -4,8 +4,8 @@
 - [ ] ~~order colors~~
 - [ ] ~~order tshirts~~
 - [x] order bags
-- [ ] buy paper
-- [ ] find material to cut stencils from (find vinyl film: Orafolie)
+- [x] buy paper
+- [x] find material to cut stencils from (find vinyl film: Orafolie)
 ### content
 - [ ] print 12 works different formats -> shoot them
 - [ ] ~~print 3 shirts -> shoot them~~
@@ -14,14 +14,14 @@
 - [ ] fill inst with works
 ### setup
 - [x] order fixation for siebs
-- [ ] find transparent folie to use it as a contour
+- [x] find transparent folie to use it as a contour
 - [x] check if the desk i have suites to small sieb
 - [x] buy two desks (siebs: 51x46cm 55t; 56x43cm 43t)
 #### communication
 - [x] check how Gerber setups looks like
 - [x] agree on place with Naddi
-- [ ] talk to Juli about the event (Jochen)
-- [ ] meet at the place and check: two tables, water access
+- [x] talk to Juli about the event (Jochen)
+- [x] meet at the place and check: two tables, water access
 - [x] reply that project description will be submitted over the weekends
 - [ ] fill out Kuenstelr Vorstellung
 - [ ] make an advertisment rills
@@ -35,12 +35,12 @@
 - [ ] bring hair drier (should we buy industrial dryer?)
 - [ ] check how to store siebs at the place
 - [ ] check which and how many rackels are needed
-- [ ] decide on motives
+- [ ] draw motives
 	- [ ] premade text + illustration
 	- [ ] empty square + stencil
 - [ ] prepare stencils
 #### decorating
-- [ ] find a cover for floor
+- [ ] find a cover for floor and table
 - [ ] print buddy t-shirts
 - [ ] prepare advertisement siebs
 - [ ] figure out how to hang sample bags and prints
