@@ -26,10 +26,7 @@
 - [x] reply that project description will be submitted over the weekends
 - [x] fill out Kuenstelr Vorstellung
 
-## week 2
-### content
-
-## last effort
+## LAST EFFORT
 ### setup
 - [ ] pickup letters
 - [ ] draw 4-5 motives
